@@ -1,0 +1,14 @@
+{
+	"n_targets": 140247,
+	"n_bootstraps": 0,
+	"n_processed": 11949981,
+	"n_pseudoaligned": 11307170,
+	"n_unique": 4486632,
+	"p_pseudoaligned": 94.6,
+	"p_unique": 37.5,
+	"kallisto_version": "0.52.0",
+	"index_version": 13,
+	"k-mer length": 31,
+	"start_time": "Wed Mar  4 16:31:46 2026",
+	"call": "kallisto quant -i /lisc/data/scratch/molevo/jmontenegro/grisha/stomolophus/results/01.trinity/stomolophus.kal.idx -o SK4 -t 16 /lisc/data/scratch/molevo/jmontenegro/grisha/stomolophus/data/reads/trim/SK4_MKRN260009320-1A_23CLFNLT4_L5_1.trimmed.fq_trim_1P.fq /lisc/data/scratch/molevo/jmontenegro/grisha/stomolophus/data/reads/trim/SK4_MKRN260009320-1A_23CLFNLT4_L5_1.trimmed.fq_trim_2P.fq"
+}
