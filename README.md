@@ -1,0 +1,1 @@
+This repository contains the minimal dataset and code necessary to reproduce the differential gene expression analysis produced in the associated manuscript. The code to repeat the analysis can be found in deseq.R also present in this repository.
